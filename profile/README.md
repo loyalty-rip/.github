@@ -1,2 +1,2 @@
-## loyalty.rip 👻
+# loyalty.rip 👻
 
